@@ -8,6 +8,9 @@
 @import "screens/friends.css";
 @import "screens/chats.css";
 @import "screens/find.css";
+@import "screens/more.css";
+@import "screens/settings.css";
+@import "screens/chat.css";
 
 /* Components */
 @import "components/status-bar.css";
@@ -15,6 +18,9 @@
 @import "components/screen-header.css";
 @import "components/user-components.css";
 @import "components/badge.css";
+@import "components/icon-row.css";
+@import "components/alt-screen-header.css";
+@import "components/no-mobile.css";
 
 body {
   color: #2e363e;
